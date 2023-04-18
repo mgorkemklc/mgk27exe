@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammed Görkem Kılıç</h1>
 <h3 align="center">I am a 2nd-year student of Information Systems Engineering at Muğla Sıtkı Koçman University. I am interested in Artificial Intelligence and Cyber Security.</h3>
-
-
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/Gj3MtZq.gif">
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mgk27exe&label=Profile%20views&color=0e75b6&style=flat" alt="mgk27exe" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mgk27exe" alt="mgk27exe" /></a> </p>
 
