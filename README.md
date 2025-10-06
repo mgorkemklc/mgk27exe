@@ -2,22 +2,22 @@
 <h3 align="center">I am a 4th-year student of Information Systems Engineering at Muğla Sıtkı Koçman University. I am interested in Artificial Intelligence and Cyber Security. I'm Artificial Intelligence R&D Specialist.</h3>
 <img align="center" alt="Coding" width="980" src="https://i.imgur.com/Gj3MtZq.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mgk27exe" alt="mgk27exe" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mgorkemklc" alt="mgorkemkilic" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/mgorkemklc" target="blank"><img src="https://img.shields.io/twitter/follow/mgorkemklc?logo=twitter&style=for-the-badge" alt="mgorkemklc" /></a> </p>
 
 - 🔭 I’m currently working on **AI**
 
-- 🌱 I’m currently learning **SQL**
+- 🌱 I’m currently learning **AWS CLOUD SYSTEMS**
 
 - 👯 I’m looking to collaborate on **Cyber Security and AI**
 
-- 📫 How to reach me **kilicmuhammedgorkem@gmail.com**
+- 📫 How to reach me **engineer@mgorkemkilic.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mgorkemklc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mgorkemklc" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muhammed görkem kılıç" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammed görkem kılıç" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mgorkemklc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammed görkem kılıç" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/18596767/m-g-k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/18596767/m-g-k" height="30" width="40" /></a>
 <a href="https://instagram.com/mgorkemklc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mgorkemklc" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/kilicmuhammedgo1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/kilicmuhammedgo1" height="30" width="40" /></a>
